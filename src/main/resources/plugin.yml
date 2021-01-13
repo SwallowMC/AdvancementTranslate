@@ -1,0 +1,6 @@
+name: AdvancementTranslate
+main: org.swallowmc.AdvancementTranslate.AdvancementTranslate
+version: "1.0"
+api-version: "1.16"
+author: SwallowMCTeam
+depend: [PlaceholderAPI]
