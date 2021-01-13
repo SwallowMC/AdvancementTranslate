@@ -44,7 +44,7 @@ public class Expansion extends PlaceholderExpansion {
         try {
             return advancements.get(identifier).getAsString();
         } catch (Exception e) {
-            plugin.getLogger().warning("无法找到进度["+plugin+"]的翻译！");
+            plugin.getLogger().warning("无法找到进度["+identifier+"]的翻译！");
             return identifier;
         }
     }
