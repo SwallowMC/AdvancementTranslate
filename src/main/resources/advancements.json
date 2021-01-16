@@ -50,6 +50,7 @@
   "minecraft:end/find_end_city": "在游戏尽头的城市",
   "minecraft:end/elytra": "天空即为极限",
   "minecraft:end/levitate": "这上面的风景不错",
+  // 冒险
   "minecraft:adventure/root": "冒险",
   "minecraft:adventure/voluntary_exile": "自我放逐",
   "minecraft:adventure/kill_a_mob": "怪物猎人",

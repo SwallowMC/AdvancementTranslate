@@ -1,6 +1,7 @@
-name: AdvancementTranslate
+name: ${project.artifactId}
 main: org.swallowmc.AdvancementTranslate.AdvancementTranslate
-version: "1.0"
-api-version: "1.16"
-author: SwallowMCTeam
+version: ${project.version}
+website: ${project.url}
+api-version: 1.16
+author: ${project.organization.name}
 depend: [PlaceholderAPI]
